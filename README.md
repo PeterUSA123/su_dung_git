@@ -39,7 +39,7 @@
    git merge A: đứng nhánh B muốn merge nhánh A
 ```
 
-## git tag
+## Git tag
 
 ```
    git tag <name tag> <commit>: tag label on commit
@@ -47,7 +47,7 @@
    git log: show tag
 ```
 
-## làm việc với thây đổi của file và commit
+## Làm việc với thây đổi của file và commit
 
 ```git log: show all log commit
 
