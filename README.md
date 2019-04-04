@@ -41,7 +41,8 @@
 
 ## git tag
 
-```git tag <name tag> <commit>
+```
+   git tag <name tag> <commit>: tag label on commit
 
    git log: show tag
 ```
