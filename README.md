@@ -68,4 +68,8 @@
    git checkout <commit> chuyển đến commit
    
    git reset --hard: xóa các thay đổi của tệp tin trước commit muốn trỏ tới
+   
+   git rm <file name> - git commit -m "remove: delete file
+   
+   git rm --cached <file name>: remove from git repo not remove it from the filesystem
 ```
