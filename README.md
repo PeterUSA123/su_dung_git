@@ -6,7 +6,8 @@
  
 ## Config:
 
-```git config --global user.name "Name" 
+```
+   git config --global user.name "Name" 
    git config --global user.email Email
    
    git config --local user.name "Name"
@@ -19,14 +20,16 @@
 
 ## Add file, commit
 
-``` git add <tên-tập-tin> 
+``` 
+    git add <tên-tập-tin> 
     git add *
     git commit -m "Ghi chú Commit"
 ```
 
 ## Thêm nhánh, xóa nhánh, push nhánh lên remote, pull, merge
 
-```git checkout -b feature_x: thêm nhánh
+```
+   git checkout -b feature_x: thêm nhánh
   
    git checkout <name branch>: chuyển nhánh
    
@@ -49,7 +52,8 @@
 
 ## Làm việc với thây đổi của file và commit
 
-```git log: show all log commit
+```
+   git log: show all log commit
 
    git log --oneline, git log --pretty-oneline: show log với nhiều định dạng
    
