@@ -73,3 +73,6 @@
    
    git rm --cached <file name>: remove from git repo not remove it from the filesystem
 ```
+## Quay ngược thời gian
+
+Dùng git rebase để quay lại bất k
